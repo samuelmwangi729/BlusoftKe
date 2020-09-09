@@ -28,6 +28,9 @@ Route::get('/About',function(){
 Route::get('/Contact',function(){
     return view('Contact');
 });
+Route::get('/SendEmail',[
+    'uses'=>'IndexController@index'
+]);
 // Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
