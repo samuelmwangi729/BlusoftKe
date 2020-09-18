@@ -1,7 +1,7 @@
 <template>
 <div class="container-fluid">
     <!-- Breadcrumb -->
-		<div class="breadcrumbs overlay" style="background-image:url('https://via.placeholder.com/1600x500')">
+		<div class="breadcrumbs overlay" style="background-image:url('img/banner.jpg')">
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-12">
@@ -29,12 +29,7 @@
 					<div class="col-lg-5 offset-lg-1 col-md-6 col-12">
 						<!-- About Video -->
 						<div class="modern-img-feature">
-							<img src="https://via.placeholder.com/800x725" alt="#">
-							<div class="video-play">
-								<a href="https://www.youtube.com/watch?v=RLlPLqrw8Q4" class="video video-popup mfp-iframe">
-									<i class="fa fa-play"></i>
-								</a>
-							</div>
+							<img src="img/about.png" alt="#">
 						</div>
 						<!--/End About Video  -->
 					</div>
@@ -45,10 +40,8 @@
 							</div>
 							<div class="section-bottom">
 								<div class="text">
-									<p>SmartSoftInc International is an established Software and security company based in Kenya. The sole mandate of the company is to provide custom Software and security measures to help in smooth running of any bussiness. We utilise cutting-edge technology, extensive knowledge and experience for you to avoid security breaches and interuptions that may cause you money or lead to any loss to the business.</p>
-                                    <p>
-                                        We consistently provide exciting experiences in software solutions and security policies to our clients and thus we give outmatched expectations to our clients. Our success is invariably rooted in foundational principles upon which we base practice as an ICT firm.
-                                    </p>
+									<p>BlusoftKenya is an established Software and security company based in Kenya. The sole mandate of the company is to provide custom Software and security measures to help in smooth running of any bussiness. We utilise cutting-edge technology, extensive knowledge and experience for you to avoid security breaches and interuptions that may cause you money or lead to any loss to the business.</p>
+
 								</div>
 								<div class="button">
 									<a href="/Contact" class="bizwheel-btn theme-2">Contact Us<i class="fa fa-angle-right"></i></a>
@@ -63,13 +56,13 @@
 
 
 		<!-- Skill Area -->
-		<section class="skill-area section-space" style="background-image:url('https://via.placeholder.com/1700x900')">
+		<section class="skill-area section-space" style="background-image:url('img/about.jpg')">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6 col-md-8 col-12">
 						<div class="section-title  default text-left ">
 							<div class="section-top">
-								<h1><span>Our Services</span><b>Why choose us?</b></h1>
+								<h1 style="text-shadow:1px 1px black;color:white"><span>Our Services</span><b>Why choose us?</b></h1>
 							</div>
 							<div class="section-bottom"><div class="text"><p>
                                 All of our solutions are practical, budget friendly and can be customised to fit your particular business needs.
@@ -114,7 +107,7 @@
 							<!-- Single Skill -->
 							<div class="single-skill">
 								<div class="skill-info">
-									<h4>Graphics Design</h4>
+									<h4 style="text-shadow:1px 1px black;color:white">Graphics Design</h4>
 								</div>
 								<div class="progress">
 									<div class="progress-bar" role="progressbar" aria-valuenow="47" aria-valuemin="0" aria-valuemax="100" style="width: 95%;">
@@ -125,7 +118,7 @@
                             <!-- Single Skill -->
 							<div class="single-skill">
 								<div class="skill-info">
-									<h4>Software Development</h4>
+									<h4 style="text-shadow:1px 1px black;color:white">Software Development</h4>
 								</div>
 								<div class="progress">
 									<div class="progress-bar" role="progressbar" aria-valuenow="47" aria-valuemin="0" aria-valuemax="100" style="width: 95%;">
@@ -136,7 +129,7 @@
                             <!-- Single Skill -->
 							<div class="single-skill">
 								<div class="skill-info">
-									<h4>Security Policing</h4>
+									<h4 style="text-shadow:1px 1px black;color:white">Security Policing</h4>
 								</div>
 								<div class="progress">
 									<div class="progress-bar" role="progressbar" aria-valuenow="47" aria-valuemin="0" aria-valuemax="100" style="width: 95%;">

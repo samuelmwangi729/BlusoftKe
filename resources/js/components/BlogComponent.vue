@@ -1,7 +1,7 @@
 <template>
     <div class="row-fluid">
         <!-- Breadcrumb -->
-		<div class="breadcrumbs overlay" style="background-image:url('https://via.placeholder.com/1600x500')">
+		<div class="breadcrumbs overlay" style="background-image:url('img/bg.jpg');">
 			<div class="">
 				<div class="row">
 					<div class="col-12">
@@ -30,7 +30,7 @@
 						<!-- Single Blog -->
 						<div class="single-news ">
 							<div class="news-head overlay">
-								<img src="https://via.placeholder.com/700x530" alt="#">
+								<img src="img/title.png" alt="#">
 								<ul class="news-meta">
 									<li class="author"><a href="#"><i class="fa fa-user"></i>site</a></li>
 									<li class="date"><i class="fa fa-calendar"></i>April 15, 2020</li>
@@ -51,7 +51,7 @@
 						<!-- Single Blog -->
 						<div class="single-news ">
 							<div class="news-head overlay">
-								<img src="https://via.placeholder.com/700x530" alt="#">
+								<img src="img/title1.png" alt="#">
 								<ul class="news-meta">
 									<li class="author"><a href="#"><i class="fa fa-user"></i>site</a></li>
 									<li class="date"><i class="fa fa-calendar"></i>April 15, 2020</li>
@@ -72,7 +72,7 @@
 						<!-- Single Blog -->
 						<div class="single-news ">
 							<div class="news-head overlay">
-								<img src="https://via.placeholder.com/700x530" alt="#">
+								<img src="img/title2.png" alt="#">
 								<ul class="news-meta">
 									<li class="author"><a href="#"><i class="fa fa-user"></i>site</a></li>
 									<li class="date"><i class="fa fa-calendar"></i>April 15, 2020</li>
@@ -81,7 +81,7 @@
 							</div>
 							<div class="news-body">
 								<div class="news-content">
-									<h3 class="news-title"><a href="blog-single.html">How to Start a Simple Business Agency Without Invest</a></h3>
+									<h3 class="news-title"><a href="blog-single.html">Start a Simple Business Agency Without Invest</a></h3>
 									<div class="news-text"><p>Sed tempus pulvinar augue ut euismod. Donec a nisi volutpat, dignissim mauris eget. Quisque vitae nunc sit amet eros pellentesque tempus at sit amet sem. Maecenas</p></div>
 									<a href="blog-single.html" class="more">Continue reading <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
 								</div>

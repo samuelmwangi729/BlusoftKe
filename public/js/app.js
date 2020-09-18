@@ -37526,9 +37526,7 @@ var staticRenderFns = [
         "div",
         {
           staticClass: "breadcrumbs overlay",
-          staticStyle: {
-            "background-image": "url('https://via.placeholder.com/1600x500')"
-          }
+          staticStyle: { "background-image": "url('img/banner.jpg')" }
         },
         [
           _c("div", { staticClass: "container-fluid" }, [
@@ -37566,25 +37564,7 @@ var staticRenderFns = [
           _c("div", { staticClass: "row" }, [
             _c("div", { staticClass: "col-lg-5 offset-lg-1 col-md-6 col-12" }, [
               _c("div", { staticClass: "modern-img-feature" }, [
-                _c("img", {
-                  attrs: {
-                    src: "https://via.placeholder.com/800x725",
-                    alt: "#"
-                  }
-                }),
-                _vm._v(" "),
-                _c("div", { staticClass: "video-play" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass: "video video-popup mfp-iframe",
-                      attrs: {
-                        href: "https://www.youtube.com/watch?v=RLlPLqrw8Q4"
-                      }
-                    },
-                    [_c("i", { staticClass: "fa fa-play" })]
-                  )
-                ])
+                _c("img", { attrs: { src: "img/about.png", alt: "#" } })
               ])
             ]),
             _vm._v(" "),
@@ -37610,13 +37590,7 @@ var staticRenderFns = [
                     _c("div", { staticClass: "text" }, [
                       _c("p", [
                         _vm._v(
-                          "SmartSoftInc International is an established Software and security company based in Kenya. The sole mandate of the company is to provide custom Software and security measures to help in smooth running of any bussiness. We utilise cutting-edge technology, extensive knowledge and experience for you to avoid security breaches and interuptions that may cause you money or lead to any loss to the business."
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c("p", [
-                        _vm._v(
-                          "\n                                        We consistently provide exciting experiences in software solutions and security policies to our clients and thus we give outmatched expectations to our clients. Our success is invariably rooted in foundational principles upon which we base practice as an ICT firm.\n                                    "
+                          "BlusoftKenya is an established Software and security company based in Kenya. The sole mandate of the company is to provide custom Software and security measures to help in smooth running of any bussiness. We utilise cutting-edge technology, extensive knowledge and experience for you to avoid security breaches and interuptions that may cause you money or lead to any loss to the business."
                         )
                       ])
                     ]),
@@ -37646,9 +37620,7 @@ var staticRenderFns = [
         "section",
         {
           staticClass: "skill-area section-space",
-          staticStyle: {
-            "background-image": "url('https://via.placeholder.com/1700x900')"
-          }
+          staticStyle: { "background-image": "url('img/about.jpg')" }
         },
         [
           _c("div", { staticClass: "container" }, [
@@ -37659,10 +37631,19 @@ var staticRenderFns = [
                   { staticClass: "section-title  default text-left " },
                   [
                     _c("div", { staticClass: "section-top" }, [
-                      _c("h1", [
-                        _c("span", [_vm._v("Our Services")]),
-                        _c("b", [_vm._v("Why choose us?")])
-                      ])
+                      _c(
+                        "h1",
+                        {
+                          staticStyle: {
+                            "text-shadow": "1px 1px black",
+                            color: "white"
+                          }
+                        },
+                        [
+                          _c("span", [_vm._v("Our Services")]),
+                          _c("b", [_vm._v("Why choose us?")])
+                        ]
+                      )
                     ]),
                     _vm._v(" "),
                     _c("div", { staticClass: "section-bottom" }, [
@@ -37761,7 +37742,16 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("div", { staticClass: "single-skill" }, [
                     _c("div", { staticClass: "skill-info" }, [
-                      _c("h4", [_vm._v("Graphics Design")])
+                      _c(
+                        "h4",
+                        {
+                          staticStyle: {
+                            "text-shadow": "1px 1px black",
+                            color: "white"
+                          }
+                        },
+                        [_vm._v("Graphics Design")]
+                      )
                     ]),
                     _vm._v(" "),
                     _c("div", { staticClass: "progress" }, [
@@ -37788,7 +37778,16 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("div", { staticClass: "single-skill" }, [
                     _c("div", { staticClass: "skill-info" }, [
-                      _c("h4", [_vm._v("Software Development")])
+                      _c(
+                        "h4",
+                        {
+                          staticStyle: {
+                            "text-shadow": "1px 1px black",
+                            color: "white"
+                          }
+                        },
+                        [_vm._v("Software Development")]
+                      )
                     ]),
                     _vm._v(" "),
                     _c("div", { staticClass: "progress" }, [
@@ -37815,7 +37814,16 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("div", { staticClass: "single-skill" }, [
                     _c("div", { staticClass: "skill-info" }, [
-                      _c("h4", [_vm._v("Security Policing")])
+                      _c(
+                        "h4",
+                        {
+                          staticStyle: {
+                            "text-shadow": "1px 1px black",
+                            color: "white"
+                          }
+                        },
+                        [_vm._v("Security Policing")]
+                      )
                     ]),
                     _vm._v(" "),
                     _c("div", { staticClass: "progress" }, [
@@ -37881,9 +37889,7 @@ var staticRenderFns = [
         "div",
         {
           staticClass: "breadcrumbs overlay",
-          staticStyle: {
-            "background-image": "url('https://via.placeholder.com/1600x500')"
-          }
+          staticStyle: { "background-image": "url('img/bg.jpg')" }
         },
         [
           _c("div", {}, [
@@ -37918,12 +37924,7 @@ var staticRenderFns = [
             _c("div", { staticClass: "col-lg-4 col-md-6 col-12" }, [
               _c("div", { staticClass: "single-news " }, [
                 _c("div", { staticClass: "news-head overlay" }, [
-                  _c("img", {
-                    attrs: {
-                      src: "https://via.placeholder.com/700x530",
-                      alt: "#"
-                    }
-                  }),
+                  _c("img", { attrs: { src: "img/title.png", alt: "#" } }),
                   _vm._v(" "),
                   _c("ul", { staticClass: "news-meta" }, [
                     _c("li", { staticClass: "author" }, [
@@ -37985,12 +37986,7 @@ var staticRenderFns = [
             _c("div", { staticClass: "col-lg-4 col-md-6 col-12" }, [
               _c("div", { staticClass: "single-news " }, [
                 _c("div", { staticClass: "news-head overlay" }, [
-                  _c("img", {
-                    attrs: {
-                      src: "https://via.placeholder.com/700x530",
-                      alt: "#"
-                    }
-                  }),
+                  _c("img", { attrs: { src: "img/title1.png", alt: "#" } }),
                   _vm._v(" "),
                   _c("ul", { staticClass: "news-meta" }, [
                     _c("li", { staticClass: "author" }, [
@@ -38052,12 +38048,7 @@ var staticRenderFns = [
             _c("div", { staticClass: "col-lg-4 col-md-6 col-12" }, [
               _c("div", { staticClass: "single-news " }, [
                 _c("div", { staticClass: "news-head overlay" }, [
-                  _c("img", {
-                    attrs: {
-                      src: "https://via.placeholder.com/700x530",
-                      alt: "#"
-                    }
-                  }),
+                  _c("img", { attrs: { src: "img/title2.png", alt: "#" } }),
                   _vm._v(" "),
                   _c("ul", { staticClass: "news-meta" }, [
                     _c("li", { staticClass: "author" }, [
@@ -38083,9 +38074,7 @@ var staticRenderFns = [
                   _c("div", { staticClass: "news-content" }, [
                     _c("h3", { staticClass: "news-title" }, [
                       _c("a", { attrs: { href: "blog-single.html" } }, [
-                        _vm._v(
-                          "How to Start a Simple Business Agency Without Invest"
-                        )
+                        _vm._v("Start a Simple Business Agency Without Invest")
                       ])
                     ]),
                     _vm._v(" "),
@@ -38351,9 +38340,7 @@ var staticRenderFns = [
         "div",
         {
           staticClass: "breadcrumbs overlay",
-          staticStyle: {
-            "background-image": "url('https://via.placeholder.com/1600x500')"
-          }
+          staticStyle: { "background-image": "url('img/banner.jpg')" }
         },
         [
           _c("div", { staticClass: "container-fluid" }, [
@@ -38504,7 +38491,7 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("p", [
                     _vm._v(
-                      "euismod eu augue. Etiam vel dui arcu. Cras varius mieros pharetra, id aliquam metus venenatis. Donec sollicit"
+                      "\n                                    We aer always heppy to help and be at your service. Below are our contact services\n                                "
                     )
                   ])
                 ]),
@@ -38518,7 +38505,7 @@ var staticRenderFns = [
                     _c("h4", [_vm._v("Opening Hour")]),
                     _vm._v(" "),
                     _c("p", [
-                      _vm._v("Friday - Saturday"),
+                      _vm._v("Monday - Monday"),
                       _c("br"),
                       _vm._v("08AM - 10PM (everyday)")
                     ])
@@ -38552,23 +38539,9 @@ var staticRenderFns = [
                     _c("p", [
                       _vm._v("contact@bizwheel.com"),
                       _c("br"),
-                      _vm._v("info@bizwheel.com")
+                      _vm._v("info@blusoft.co.ke")
                     ])
                   ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "button" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass: "bizwheel-btn theme-1",
-                      attrs: { href: "#" }
-                    },
-                    [
-                      _vm._v("Our Works"),
-                      _c("i", { staticClass: "fa fa-angle-right" })
-                    ]
-                  )
                 ])
               ])
             ])
@@ -38655,13 +38628,13 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "container-fluid" }, [
       _c("section", { staticClass: "services section-space" }, [
-        _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "container-fluid" }, [
           _c("div", { staticClass: "row" }, [
             _c("div", { staticClass: "col-12" }, [
               _c("div", { staticClass: "section-title  style2 text-center" }, [
                 _c("div", { staticClass: "section-top" }, [
                   _c("h1", [
-                    _c("span", [_vm._v("Creative")]),
+                    _c("span", [_vm._v("BlusoftKe")]),
                     _c("b", [_vm._v("Service We Provide")])
                   ])
                 ]),

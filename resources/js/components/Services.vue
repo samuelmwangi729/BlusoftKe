@@ -2,12 +2,12 @@
 <div class="container-fluid">
 <!-- Services -->
 		<section class="services section-space">
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row">
 					<div class="col-12">
 						<div class="section-title  style2 text-center">
 							<div class="section-top">
-								<h1><span>Creative</span><b>Service We Provide</b></h1>
+								<h1><span>BlusoftKe</span><b>Service We Provide</b></h1>
 							</div>
 							<div class="section-bottom">
 								<div class="text-style-two">

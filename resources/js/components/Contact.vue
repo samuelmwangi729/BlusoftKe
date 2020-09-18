@@ -2,7 +2,7 @@
     <div class="container-fluid">
 
 		<!-- Breadcrumb -->
-		<div class="breadcrumbs overlay" style="background-image:url('https://via.placeholder.com/1600x500')">
+		<div class="breadcrumbs overlay" style="background-image:url('img/banner.jpg')">
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-12">
@@ -77,14 +77,16 @@
 						<div class="contact-box-main m-top-30">
 							<div class="contact-title">
 								<h2>Contact with us</h2>
-								<p>euismod eu augue. Etiam vel dui arcu. Cras varius mieros pharetra, id aliquam metus venenatis. Donec sollicit</p>
+								<p>
+                                    We aer always heppy to help and be at your service. Below are our contact services
+                                </p>
 							</div>
 							<!-- Single Contact -->
 							<div class="single-contact-box">
 								<div class="c-icon"><i class="fa fa-clock-o"></i></div>
 								<div class="c-text">
 									<h4>Opening Hour</h4>
-									<p>Friday - Saturday<br>08AM - 10PM (everyday)</p>
+									<p>Monday - Monday<br>08AM - 10PM (everyday)</p>
 								</div>
 							</div>
 							<!--/ End Single Contact -->
@@ -102,13 +104,10 @@
 								<div class="c-icon"><i class="fa fa-envelope-o"></i></div>
 								<div class="c-text">
 									<h4>Email Us</h4>
-									<p>contact@bizwheel.com<br>info@bizwheel.com</p>
+									<p>contact@bizwheel.com<br>info@blusoft.co.ke</p>
 								</div>
 							</div>
 							<!--/ End Single Contact -->
-							<div class="button">
-								<a href="#" class="bizwheel-btn theme-1">Our Works<i class="fa fa-angle-right"></i></a>
-							</div>
 						</div>
 					</div>
 				</div>

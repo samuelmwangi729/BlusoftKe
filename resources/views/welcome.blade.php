@@ -19,8 +19,8 @@
                                     </p>
                                 </div>
                                 <div class="button">
-                                    <a href="contact.html" class="bizwheel-btn theme-1 effect">Hire Us</a>
-                                    <a href="portfolio.html" class="bizwheel-btn theme-2 effect">Our Portfolio</a>
+                                    <a href="/Contact" class="bizwheel-btn theme-1 effect">Hire Us</a>
+                                    <a href="/Services" class="bizwheel-btn theme-2 effect">Our Services</a>
                                 </div>
                             </div>
                         </div>
@@ -162,7 +162,7 @@
             </div>
             <div class="col-lg-3 col-12">
                 <div class="button">
-                    <a href="portfolio.html" class="bizwheel-btn">Our Portfolio</a>
+                    <a href="/Services" class="bizwheel-btn">Our Services</a>
                 </div>
             </div>
         </div>
@@ -240,7 +240,7 @@
                     </div>
                     <div class="service-content">
                         <h4><a href="service-market.html">Cyber Security Training</a></h4>
-                        <p>Improve your business security by providing  your employees with the latest training and guidance . Available programs include Cyber Security,Cyber Security Awareness and Social Engineering.</p>
+                        <p>Improve your business security by providing  your employees with the latest training and guidance . Available programs include Cyber Security Awareness and Social Engineering.</p>
                         <a class="btn" href="service-market.html"><i class="fa fa-arrow-circle-o-right"></i>View Service</a>
                     </div>
                 </div>

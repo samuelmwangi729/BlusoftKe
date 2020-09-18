@@ -119,7 +119,7 @@
 														<div class="menu-home-menu-container">
 															<!-- Naviagiton -->
 															<ul id="nav" class="nav main-menu menu navbar-nav">
-																<li><a href="index.html">Home</a></li>
+																<li><a href="/">Home</a></li>
 																<li><a href="{{ url('/Services') }}">Our Services</a></li>
 																<li><a href="{{ url('/Blog') }}">Blog</a>
 																</li>
@@ -166,8 +166,8 @@
 					<a class="btn"><i class="fa fa-close"></i></a>
 				</div>
 				<div class="single-content">
-					<h4>About Bizwheel</h4>
-					<p>The main component of a healthy environment for self esteem is that it needs be nurturing. It should provide unconditional warmth.</p>
+					<h4>About Blusoft</h4>
+					<p>The sole mandate of the company is to provide custom Software and security measures to help in smooth running of any bussiness. We utilise cutting-edge technology, extensive knowledge and experience for you to avoid security breaches and interuptions that may cause you money or lead to any loss to the business.</p>
 					<!-- Social Icons -->
 					<ul class="social">
 						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -179,12 +179,10 @@
 				<div class="single-content">
 					<h4>Important Links</h4>
 					<ul class="links">
-						<li><a href="#">About Us</a></li>
-						<li><a href="#">Our Services</a></li>
-						<li><a href="#">Portfolio</a></li>
-						<li><a href="#">Pricing Plan</a></li>
-						<li><a href="#">Blog & News</a></li>
-						<li><a href="#">Contact us</a></li>
+						<li><a href="/About">About Us</a></li>
+						<li><a href="/Services">Our Services</a></li>
+						<li><a href="/Blog">Blog</a></li>
+						<li><a href="/Contact">Contact us</a></li>
 					</ul>
 				</div>
 			</div>
@@ -213,7 +211,9 @@
 									</div>
 								</div>
 								<div class="footer-widget-about-description">
-									<p>Beatae vitae dicta su explicabo nemo enim ipsam voluptatem quia voluptas sitBeatae vitae sitBeatae vitae dicta suntania..</p>
+									<p>
+                                        The sole mandate of the company is to provide custom Software and security measures to help in smooth running of any bussiness. We utilise cutting-edge technology, extensive knowledge and experience for you to avoid security breaches and interuptions that may cause you money or lead to any loss to the business.
+                                    </p>
 								</div>
 								<div class="social">
 									<!-- Social Icons -->
@@ -265,7 +265,7 @@
 						<div class="col-12">
 							<div class="copyright-content">
 								<!-- Copyright Text -->
-								<p>© Copyright <a href="{{ url('') }}">{{ config('app.name') }}</a>.  Developed By <a target="_blank" href="{{ url('') }}">{{ config('app.name') }}</a></p>
+								<p>© Copyright <a href="{{ url('/') }}">{{ config('app.name') }}</a>.  Developed By <a target="_blank" href="{{ url('') }}">{{ config('app.name') }}</a></p>
 							</div>
 						</div>
 					</div>
